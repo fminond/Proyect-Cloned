@@ -41,8 +41,7 @@ juntos y en español**. Si no, esa es la vuelta de tuerca.
 **Pregunta central de las rondas:** ¿qué servicio o app puede armar alguien que construye cosas
 con IA, desde Buenos Aires, para la ciudad o para el mundo?
 
-**Tarea programada:** `trig_01L3ApodYh6rG8rSMSjaYSgf` — **borrada el 23/10 a las 16:15, al terminar las 8 rondas.** Para frenarla antes, alcanza con pedirle a Claude
-"pará las rondas".
+**Tarea programada:** `trig_01L3ApodYh6rG8rSMSjaYSgf` — **borrada el 23/10 a las 16:15, al terminar las 8 rondas.**
 
 ### La idea, en palabras del usuario
 Una **"fuente madre"** para hacer las cosas de la casa: plomería, electricidad (voltajes,
