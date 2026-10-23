@@ -45,16 +45,27 @@ con IA, desde Buenos Aires, para la ciudad o para el mundo?
 sola cuando no quedan rondas pendientes. Para frenarla antes, alcanza con pedirle a Claude
 "pará las rondas".
 
+### La idea, en palabras del usuario
+Una **"fuente madre"** para hacer las cosas de la casa: plomería, electricidad (voltajes,
+seguridad), construcción y armado, **bien específica de Argentina**: los términos, las medidas, los
+materiales y las marcas de acá. Hoy cada albañil dice algo distinto y hay millones de medidas.
+Quien no es del rubro no tiene dónde consultar con confianza.
+
+**Preguntas que las rondas tienen que responder:**
+1. ¿Hay algo parecido? ¿Es gratis o pago?
+2. Si se arma, **¿cómo se gana plata?** (el usuario no lo sabe todavía)
+3. ¿Qué tiene de específico Argentina y cómo se consigue esa información confiable?
+
 | Ronda | Hora aprox. (Argentina) | Tema | Estado |
 |---|---|---|---|
 | 1 | 09:15 | Panorama general de servicios en Buenos Aires (anterior al perfil) | ✅ [ronda-01-panorama.md](ronda-01-panorama.md) |
-| 2 | 10:13 | **IA para construir cosas físicas: qué existe en el mundo.** Texto a CAD (Zoo/Text-to-CAD, funciones de IA de Fusion, otras), generadores de planos y despieces, apps para soldadura y carpintería. ¿Qué falta? ¿Qué hay en español? | pendiente |
-| 3 | 11:13 | **La app: "de la idea al plano de taller con IA"** para hacedores principiantes como él. Que dé despiece, lista de materiales **con medidas y precios argentinos** (caño estructural, chapa, madera), pasos de soldadura y carpintería, y archivo para Fusion. Competencia, cómo cobrar y mercado en español (Latinoamérica y España) | pendiente |
-| 4 | 12:13 | **El servicio en Buenos Aires: prototipado y fabricación "de la idea al objeto".** Talleres de corte láser, plegado, CNC, soldadura e impresión 3D en CABA y GBA; precios; plataformas de afuera (Xometry, SendCutSend) y si hay algo así acá. ¿Una red de talleres con un "frente" que use IA para cotizar? | pendiente |
-| 5 | 13:13 | **El tráiler para perro como caso real**: ¿hay mercado para vender planos o kits (Etsy y similares), o para documentar el proceso en público ("build in public") y usarlo para validar la app? | pendiente |
-| 6 | 14:13 | **Espacios y comunidad**: makerspaces y talleres compartidos en Buenos Aires (alquiler de taller por hora con herramientas), qué pasó con TechShop en EE.UU. y si la IA cambia algo | pendiente |
-| 7 | 15:13 | **Síntesis**: ranking nuevo con los mismos criterios, más "¿lo puede arrancar una persona sola?" y "¿usa lo que le gusta?" | pendiente |
-| 8 | 16:13 | **Plan de prueba** de la mejor idea: qué hacer la semana que viene con menos de US$ 200, incluyendo un primer prototipo de la app hecho con IA | pendiente |
+| 2 | 10:13 | **¿Existe algo parecido?** En el mundo (asistentes de IA para arreglos del hogar, apps de Home Depot y Lowe's, iFixit, apps de bricolaje), en español (España y México) y en Argentina (Easy, Sodimac, ferreterías, YouTube, foros, Mercado Libre). Para cada uno: **gratis o pago**, qué resuelve y qué no, comparado con los 5 dolores del usuario y la idea de "qué varía y qué es universal" | pendiente |
+| 3 | 11:13 | **¿Cómo se gana plata?** Modelos posibles con ejemplos reales y cifras: suscripción freemium, afiliados (Mercado Libre, ferreterías), marcas que patrocinan (FV, Awaduct, Sika, etc.), lista de compras armada para retirar en la ferretería, derivar a un profesional matriculado cuando el trabajo es riesgoso (cobrar por contacto), venta a cadenas (Easy, Sodimac). Qué funcionó y qué no | pendiente |
+| 4 | 12:13 | **Lo específico de Argentina**: normas (AEA para electricidad, IRAM, gas con matriculado), 220 V y 50 Hz, medidas y roscas habituales, nombres locales de materiales (termofusión, sellarroscas, corrugado, etc.), marcas. **Qué está prohibido o es peligroso hacer sin matriculado** (gas, tableros) y cómo debe manejarlo la app. Fuentes confiables para alimentar la app | pendiente |
+| 5 | 13:13 | **Cómo construir la app con IA**: arquitectura simple (IA + base de conocimiento propia y verificada), cómo evitar que la IA invente medidas o dé consejos peligrosos, de dónde sacar contenido (manuales de fabricantes, normas, entrevistas a matriculados), costos y qué puede armar una persona sola | pendiente |
+| 6 | 14:13 | **Cómo conseguir los primeros usuarios**: documentar en público los propios proyectos (el tráiler, el bidet), comunidades y grupos de bricolaje en Argentina, YouTube e Instagram en español | pendiente |
+| 7 | 15:13 | **Síntesis**: ¿vale la pena? Riesgos (responsabilidad legal si alguien se lastima), puntaje con los mismos criterios, y comparación con las ideas anteriores | pendiente |
+| 8 | 16:13 | **Plan de prueba** con menos de US$ 200: un primer prototipo (por ejemplo, una guía "colocar un bidet en Argentina" con preguntas sobre tu caso) y cómo medir si a la gente le sirve | pendiente |
 
 ## Reglas
 - Búsquedas reales; cada competidor se verifica en tiendas de apps, Product Hunt, Reddit,
