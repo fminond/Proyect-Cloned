@@ -65,3 +65,25 @@ venta cruzada.
 
 ## Puntaje detallado
 Brecha 2 (antes 4) · Mercado 4 · Frecuencia 4 · Desintermediación 2 · Capital 5 · Regulación 4 · Comisión 4 = **25**
+
+## Revisión del bloque nocturno 4: el seguro ya no es diferencial
+
+La vuelta de tuerca principal que propuse (seguro veterinario incluido) **pierde fuerza**: los
+seguros y planes de salud para mascotas ya existen y se venden solos.
+
+| Quién | Qué ofrece | Precio de referencia |
+|---|---|---|
+| Banco Provincia (Provincia Seguros) | 3 planes: accidente, enfermedad, extravío y responsabilidad civil | Desde unos $12.948 por mes |
+| Sancor, MAPFRE, Galicia Seguros | Pólizas con gastos veterinarios y responsabilidad civil | Varía |
+| **Companion** (startup) | "Prepaga" para perros y gatos con reintegros | Desde $30.000 por mes |
+| **Vetify** | "Obra social" para mascotas; integrada a MÁS OSDE con descuentos | — |
+| OMINT | Lanzamiento de un plan para mascotas | — |
+
+Rango general: de $12.000 a $70.000 por mes (iProfesional).
+
+**Qué queda:** usar esos seguros **dentro de cada reserva** (por ejemplo, una cobertura por paseo
+de Companion o Vetify en alianza). Pero cualquier competidor, incluido Cooper, puede hacer la misma
+alianza. **No es una ventaja que dure.**
+
+**Veredicto del bloque 4:** mantengo el puntaje (25) porque los criterios no cambian, pero **la
+bajo en la recomendación**. Es un mercado con 5 o más competidores y sin una diferencia clara.

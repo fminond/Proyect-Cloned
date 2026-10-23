@@ -1,6 +1,6 @@
 # Cuidadores de adultos mayores y enfermería a domicilio
 
-Puntaje: **25/35** · Estado: nueva · Ronda 1 (octubre de 2026)
+Puntaje: **23/35** (antes 25) · Estado: **revisada en el bloque nocturno 4**: hay más competencia · Ronda 1 (octubre de 2026)
 
 ## Qué es
 Una plataforma que conecta a familias con cuidadores y enfermeros verificados para atender a
@@ -43,4 +43,27 @@ o una comisión más una suscripción de gestión.
 - Reunirse con 2 o 3 auditores médicos de prepagas o mutuales para preguntar si comprarían el servicio.
 
 ## Puntaje detallado
-Brecha 4 · Mercado 4 · Frecuencia 5 · Desintermediación 2 · Capital 4 · Regulación 2 · Comisión 4 = **25**
+Brecha 2 (antes 4) · Mercado 4 · Frecuencia 5 · Desintermediación 2 · Capital 4 · Regulación 2 · Comisión 4 = **23**
+
+## Revisión del bloque nocturno 4: competidores que se me habían pasado
+
+| Quién | Qué hace | Datos |
+|---|---|---|
+| **Cuidarlos** (fundada por Iván Spollansky, vinculada a INECO) | App que conecta familias con cuidadores, con perfiles verificados, entrevistas, chat y un tablero de monitoreo pago | Más de 8.500 cuidadores registrados y más de 4.000 calificados; más de US$ 500.000 invertidos. Opera en AMBA, San Juan y Comodoro Rivadavia, con desembarco en Córdoba. Es gratis con compras dentro de la app. |
+| **Cuidafy** (Misiones) | Conecta familias con cuidadores y enfermeros verificados | Nota de mayo de 2026; no pude ver el detalle del modelo. |
+| **CUIDARnos** (UTEP + Grobocopatel) | Cooperativa con intermediación humana | Entre 380 y 450 cuidadoras. |
+| **ArtCare** | App de recomendaciones para cuidadores | Premio de hackatón con BID Lab, cerca de 2020. |
+
+**Conclusión:** el "match" entre familias y cuidadoras **ya existe** (Cuidarlos es fuerte). La brecha
+baja de 4 a 2.
+
+**Lo que sigue abierto (y es la vuelta de tuerca que queda):**
+- **No encontré convenios de estas apps con prepagas u obras sociales.** La venta B2B2C sigue
+  siendo un hueco. Contexto: hay 269 prepagas y unos 4 millones de afiliados. La mayoría de las obras
+  sociales (sindicales, provinciales y PAMI) **no tienen prestadores propios y contratan privados**.
+  A la vez, 1,25 millones de personas perdieron su cobertura entre fines de 2023 y el primer
+  trimestre de 2026.
+- **Reemplazo garantizado** cuando falta la cuidadora. Podría resolverse con el "motor de personal
+  eventual" de la ficha 07, siempre que el régimen de casas particulares lo permita (ver
+  [combinaciones](../combinaciones.md)).
+- Más de un millón de personas trabajan en cuidados en Argentina, con mucha informalidad.

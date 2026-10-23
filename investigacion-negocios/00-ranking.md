@@ -12,14 +12,18 @@
 |---|---|---|---|---|---|---|
 | 1 | Turnos por horas: app + empresa de servicios eventuales socia *(profundizada)* | Timee (Japón), Closeer (Brasil) | Ninguna app de turnos en el día; ESE grandes sin app | **25** | 2 y nocturna | [07](fichas/07-turnos-por-horas.md) |
 | 2 | Maquinaria: software y marketplace para alquiladoras, foco Vaca Muerta *(profundizada)* | DOZR (Canadá) | Alquiladoras sueltas, clasificados y Casa do Construtor en equipos livianos | **24** | 1 y nocturna | [03](fichas/03-alquiler-maquinaria-entre-empresas.md) |
-| 3 | Cuidadores de adultos mayores, vendido a prepagas | Care.com, Papa (EE.UU.) | CUIDARnos (cooperativa) | **25** | 1 | [02](fichas/02-cuidado-adultos-mayores.md) |
-| 4 | Guardado entre particulares | Neighbor (EE.UU.) | Solo depósitos propios | **25** | 1 | [04](fichas/04-guardado-entre-particulares.md) |
-| 5 | Cuidado de mascotas con seguro *(bajó de 27)* | Rover (EE.UU.) | **Cooper, Wana, Mascoters, Wagg, Wakypet** | **25** | 1 | [01](fichas/01-cuidado-mascotas.md) |
+| 3 | Cuidadores de adultos mayores, vendido a prepagas *(revisada, bajó a 23)* | Care.com, Papa (EE.UU.) | **Cuidarlos**, Cuidafy, CUIDARnos | **23** | 1 y nocturna | [02](fichas/02-cuidado-adultos-mayores.md) |
+| 4 | Guardado entre particulares *(revisada, bajó a 24)* | Neighbor (EE.UU.) | Space Guru (puerta a puerta) y muchos depósitos | **24** | 1 y nocturna | [04](fichas/04-guardado-entre-particulares.md) |
+| 5 | Cuidado de mascotas *(bajó de 27; el seguro ya no es diferencial)* | Rover (EE.UU.) | **Cooper, Wana, Mascoters, Wagg, Wakypet** | **25** | 1 | [01](fichas/01-cuidado-mascotas.md) |
 | 6 | Micros compartidos con flota ociosa *(profundizada, bajó a 23)* | Buser (Brasil) | Nadie en rutas habituales; riesgo FlixBus (presencia sin confirmar) | **23** | 2 y nocturna | [06](fichas/06-micros-compartidos.md) |
 | 7 | Medicamentos de venta libre online *(condicionada)* | — | Bloqueado judicialmente | **24** | 1 | [05](fichas/05-farmacia-venta-libre-online.md) |
 
 La #1 tenía una duda legal. En el bloque nocturno 3 apareció un camino: operar a través de una empresa
 de servicios eventuales habilitada. Hay que confirmarlo con un abogado. Ver la ficha.
+
+## Combinación: la tesis más fuerte de la noche
+**Vaca Muerta** conecta tres ideas (equipos, operadores eventuales y traslados) en un mismo cliente:
+las pymes proveedoras. Ver [combinaciones.md](combinaciones.md).
 
 ## Intermedias (sin ficha todavía)
 

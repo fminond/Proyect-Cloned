@@ -1,6 +1,6 @@
 # Guardado entre particulares ("el Airbnb de las bauleras")
 
-Puntaje: **25/35** · Estado: nueva · Ronda 1 (octubre de 2026)
+Puntaje: **24/35** (antes 25) · Estado: **revisada en el bloque nocturno 4** · Ronda 1 (octubre de 2026)
 
 ## Qué es
 Gente con espacio que no usa (una cochera, una baulera, un cuarto o un galpón) lo alquila a
@@ -41,4 +41,25 @@ durante meses.
 - Medir cuántas consultas terminan en pago.
 
 ## Puntaje detallado
-Brecha 5 · Mercado 2 · Frecuencia 3 · Desintermediación 3 · Capital 5 · Regulación 3 · Comisión 4 = **25**
+Brecha 4 (antes 5) · Mercado 2 · Frecuencia 3 · Desintermediación 3 · Capital 5 · Regulación 3 · Comisión 4 = **24**
+
+## Revisión del bloque nocturno 4
+
+**Sigue sin aparecer una plataforma entre particulares**, pero la oferta de guardado para empresas
+y particulares es más amplia de lo que vi en la ronda 1:
+
+- **Space Guru**: guardado "puerta a puerta". Retiran las cosas, las fotografían, las muestran en
+  un catálogo dentro de la app y cobran por los metros que ocupan. Es la experiencia digital que yo
+  proponía, pero con depósito propio.
+- Depósitos tradicionales y minidepósitos: Teloguardo (600 bauleras en 50 tamaños), Dropbox Self
+  Storage (más de 300 bauleras), Metrobox, Guarda Fácil (módulos móviles que llevan a tu casa),
+  ONE Storage (Pilar, para mercadería), Depotelmo y Guardá lo que Quiera.
+
+**Conclusión:** el hueco entre particulares existe, pero el cliente ya tiene buenas alternativas.
+La brecha baja de 5 a 4. **Sigue siendo una idea secundaria** por el tamaño del mercado.
+
+**Vuelta de tuerca que queda:** el "minidepósito de barrio" para vendedores de Mercado Libre e
+Instagram, con despacho incluido (conectado con una logística de última milla). No es guardar
+cosas: es ofrecerle al emprendedor un **micro-fulfillment de barrio** sobre espacios ociosos.
+*(Hay que verificar si Mercado Libre ya ofrece algo así para vendedores chicos con Full o con
+puntos de despacho.)*
