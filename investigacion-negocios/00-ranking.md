@@ -1,10 +1,11 @@
 # Ranking de ideas
 
-Última actualización: **ronda 2b (correcciones), 23 de octubre de 2026**. Puntaje sobre 35 (ver [metodologia.md](metodologia.md)).
+Última actualización: **informe final de la investigación nocturna, 23 de octubre de 2026**. Puntaje sobre 35 (ver [metodologia.md](metodologia.md)).
 
 - Ronda 1: modelos de EE.UU. y Europa.
 - Ronda 2: modelos de Asia, Brasil y México, más cambios de regulación en Argentina.
 - Ronda 2b: correcciones de mascotas y micros, a partir de competidores que señaló el usuario.
+- Investigación nocturna: profundización de maquinaria, micros y turnos; revisión del resto y combinaciones.
 
 ## Prometedoras (con ficha)
 
@@ -43,20 +44,14 @@ las pymes proveedoras. Ver [combinaciones.md](combinaciones.md).
 ## Descartadas
 Ver [descartadas.md](descartadas.md).
 
-## Recomendación (actualizada en la ronda 2b)
+## Recomendación (actualizada en el informe final, 23 de octubre de 2026)
 
-**Corrección importante:** en la ronda 1 recomendé mascotas porque creí que no había competencia.
-El usuario encontró dos apps que se me habían pasado (Cooper y Wana) y, al buscar de nuevo, aparecieron
-cinco. **Ya no la recomiendo como primera opción.** Ver la lección en [metodologia.md](metodologia.md).
+Ver **[informe-final.md](informe-final.md)** con la comparativa, la recomendación y los pasos de esta semana.
 
-Con la información corregida:
-
-1. **Alquiler de maquinaria entre empresas (#2)**: la brecha más limpia que encontré, ticket alto y
-   la plataforma aporta algo difícil de conseguir por fuera (seguro y transporte). **Antes de
-   creerlo, buscar a mano en tiendas de apps, Instagram y LinkedIn**, porque mis búsquedas pueden
-   no ver jugadores chicos, como ya pasó con mascotas.
-2. **Micros compartidos en rutas habituales (#6)**: el puntaje bajó, pero sigue siendo la única idea
-   con una ley reciente a favor y un modelo rentable comprobado afuera. Se valida con una ruta y un
-   micro.
-3. **Turnos por horas (#1)**: el mejor puntaje, pero depende de una consulta con un abogado
-   laboralista. Si el encuadre legal no cierra, se descarta.
+En resumen:
+- **Opción A: turnos por horas** (app + empresa de servicios eventuales socia), si se quiere arrancar
+  en la propia ciudad. Primero, consulta con un abogado laboralista.
+- **Opción B: tesis Vaca Muerta** (equipos, operadores y papeles para pymes proveedoras), si hay
+  contactos o presencia en Neuquén.
+- **Micros compartidos**: solo como prueba barata.
+- Mascotas, guardado y adultos mayores: no recomendadas por ahora (ya hay competidores con tracción).

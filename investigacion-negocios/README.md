@@ -13,7 +13,8 @@ Este es el espacio de trabajo para buscar modelos de negocio de **plataforma int
 
 | Archivo | Para qué sirve |
 |---|---|
-| [`00-ranking.md`](00-ranking.md) | Tabla con todas las ideas evaluadas y su puntaje. **Empezá por acá.** |
+| [`informe-final.md`](informe-final.md) | **Conclusión de la investigación nocturna y pasos para esta semana. Empezá por acá.** |
+| [`00-ranking.md`](00-ranking.md) | Tabla con todas las ideas evaluadas y su puntaje. |
 | [`metodologia.md`](metodologia.md) | Criterios de puntaje y plantilla de ficha. |
 | [`fichas/`](fichas/) | Una ficha detallada por idea prometedora. |
 | [`lecciones.md`](lecciones.md) | Modelos que fracasaron o se complicaron afuera, y qué aprender de ellos. |
