@@ -80,3 +80,22 @@
 - [mercado.com.ar – Finaer](https://mercado.com.ar/agenda/finaer-llevara-a-expo-real-estate-2026-su-garantia-digital-para-alquileres)
 - [iProUP – Hoggax](https://www.iproup.com/startups/24703-garantia-de-alquiler-digital-como-funciona-hoggax)
 - [Forbes Argentina – LAVAPP](https://www.forbesargentina.com/negocios/la-app-argentina-revoluciona-industria-lavado-n8093)
+
+# Fuentes – Ronda 2b (correcciones)
+
+## Mascotas
+- [Cooper – Paseos caninos](https://www.cooperpetcare.app/servicios/paseos)
+- [Cooper – Guardería en CABA](https://www.cooperpetcare.app/guarderia-canina/buenos-aires)
+- [Cooper – Términos y condiciones](https://www.cooperpetcare.app/terminos-y-condiciones)
+- [Wana – App Store](https://apps.apple.com/ar/app/wana/id1624774435)
+- [Ámbito – Mascoters](https://www.ambito.com/informacion-general/mascotas/mascoters-la-app-encontrar-personas-que-cuiden-tus-animales-n5643563)
+- [Wagg](https://wagg.me/)
+- [Wakypet](https://wakypet.com/)
+
+## Micros y viajes compartidos
+- [Morella Viajes – Traslados a recitales](https://www.morellaviajes.tur.ar/)
+- [Próxima Estación](https://proximaestacion.tur.ar/)
+- [Elemental Viajes](https://elementalviajes.tur.ar/)
+- [Plataforma 10 – Micros a Cosquín Rock](https://www.plataforma10.com.ar/viajes/micros-cosquin-rock-2025/)
+- [Comparti – Google Play](https://play.google.com/store/apps/details?id=ar.com.comparti.twa&hl=es_UY)
+- [El Observador – Viatik llega a Argentina](https://www.elobservador.com.uy/cafe-y-negocios/app-uruguaya-viajes-compartidos-desembarco-argentina-y-cinco-dias-ya-suma-7500-usuarios-n5978195)

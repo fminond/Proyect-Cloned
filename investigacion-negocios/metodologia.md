@@ -29,6 +29,18 @@ y consignación (27%).
 4. **Informalidad de los oferentes**: muchos no facturan. Eso limita a quién se le puede vender
    en el segmento B2B, es decir, a empresas que necesitan factura.
 
+## Lección aprendida: verificar la competencia por varios canales (ronda 2b)
+
+En la ronda 1 di por libre el mercado de mascotas, y el usuario encontró enseguida dos apps que
+se me habían pasado (Cooper y Wana). Las apps chicas casi no salen en la prensa, que es lo que más
+encuentra un buscador web. Antes de marcar una brecha con 4 o 5 puntos, hay que:
+
+1. Buscar en **Google Play y App Store** con 3 o 4 palabras distintas (por ejemplo, "paseador",
+   "cuidador", "guardería canina", "pet").
+2. Buscar en **Instagram** (muchos emprendimientos solo existen ahí) y en **LinkedIn** (empresas B2B).
+3. **Preguntarle a alguien del rubro**: un paseador o un dueño de perro conoce las apps en dos minutos.
+4. Buscar el nombre de la empresa de afuera más "Argentina" y también la descripción en criollo.
+
 ## Plantilla de ficha
 
 ```

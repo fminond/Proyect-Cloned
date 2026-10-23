@@ -1,6 +1,6 @@
 # Micros compartidos bajo demanda ("el Buser argentino")
 
-Puntaje: **25/35** · Estado: nueva · Ronda 2 (octubre de 2026)
+Puntaje: **24/35** (antes 25) · Estado: **corregida en la ronda 2b** · Ronda 2 (octubre de 2026)
 
 ## Qué es
 Una app que junta pasajeros que quieren ir al mismo lugar el mismo día y contrata un micro de una
@@ -25,15 +25,30 @@ una comisión.
   una demanda insatisfecha que un modelo de "llenar el micro primero y después salir" puede cubrir.
 
 ## Qué hay hoy en Argentina
-- **No encontré a nadie que junte pasajeros para contratar micros.**
-- Hay vendedores de pasajes de líneas regulares: Central de Pasajes, Plataforma 10 y Unibus.
-- **BlaBlaCar** llegó en mayo de 2026, pero es para compartir **autos** (2 pasajeros por viaje en
-  promedio) y por ahora no cobra comisión. Compite por el mismo pasajero que busca precio.
+Después de buscar más a fondo:
 
-## Vuelta de tuerca propuesta
-Arrancar por **eventos y picos de demanda**, donde el micro se llena seguro: recitales y festivales
-(Cosquín Rock, Lollapalooza), partidos de visitante, fines de semana largos a la costa, temporada
-de esquí y estudiantes universitarios que vuelven a su ciudad los viernes.
+- **Nadie hace exactamente lo que hace Buser**, es decir, juntar pasajeros en rutas habituales
+  (por ejemplo, Buenos Aires–Rosario) y contratar un micro cuando se llena.
+- **Corrección: los micros a eventos ya existen.** En la ronda 2 propuse arrancar por recitales
+  como vuelta de tuerca, pero **ya lo hacen varias agencias de turismo**: Morella Viajes, Próxima
+  Estación, Elemental Viajes (salidas desde Mar del Plata) y RV Traslados, con micros habilitados
+  y reserva online. Plataforma 10 también vende micros a Cosquín Rock.
+- **Autos compartidos** (compiten por el mismo pasajero que busca precio): **BlaBlaCar** (mayo de
+  2026), **Comparti** (argentina, pagos con Mercado Pago) y **Viatik** (uruguaya, llegó a la costa
+  en el verano de 2025).
+- Vendedores de pasajes de líneas regulares: Central de Pasajes, Plataforma 10 y Unibus.
+
+**Conclusión:** la brecha existe, pero es más angosta de lo que planteé. Lo que falta no es "micros
+a eventos" sino **la tecnología que junta demanda en rutas habituales** y la reparte entre muchas
+empresas chicas.
+
+## Vuelta de tuerca propuesta (corregida)
+1. **Rutas habituales con poca oferta**, no eventos: ciudades medianas que perdieron frecuencias
+   cuando se eliminaron las compensaciones, y estudiantes y trabajadores que viajan todos los fines
+   de semana. El pasajero se anota y el micro sale cuando se alcanza un mínimo de pasajeros.
+2. **Ser la plataforma de las agencias chicas** en lugar de competir con ellas: Morella, Elemental
+   y otras ya tienen micros y clientes, pero venden por su cuenta. Un sistema que les llene los
+   asientos vacíos a cambio de una comisión las vuelve socias.
 
 ## Cómo gana plata
 Entre 10% y 20% del pasaje, o el margen entre lo que cuesta contratar el micro completo y lo que
@@ -49,12 +64,12 @@ con la mitad de los asientos vacíos, pierde.
    Un accidente en un viaje vendido por la app sería terrible para la marca.
 
 ## Cómo validarlo barato (primeros 30 días)
-- Elegir **un evento concreto** (por ejemplo, un recital en otra ciudad), cotizar un micro con
-  una empresa inscripta y vender los asientos por Instagram y WhatsApp con una regla clara: si no
+- Elegir **una ruta concreta con poca oferta** (por ejemplo, una ciudad universitaria y Buenos
+  Aires los viernes), cotizar un micro con una empresa inscripta y vender los asientos por Instagram y WhatsApp con una regla clara: si no
   se llega a cierta cantidad de pasajeros, se devuelve la plata.
-- Si se llena rápido, repetir con 3 o 4 eventos más.
+- Si se llena rápido, repetir 3 o 4 semanas seguidas para ver si la demanda es constante.
 - **Antes de vender**, confirmar con un abogado o con la empresa de micros que este esquema está
   dentro del nuevo régimen.
 
 ## Puntaje detallado
-Brecha 5 · Mercado 4 · Frecuencia 3 · Desintermediación 4 · Capital 3 · Regulación 3 · Comisión 3 = **25**
+Brecha 4 (antes 5) · Mercado 4 · Frecuencia 3 · Desintermediación 4 · Capital 3 · Regulación 3 · Comisión 3 = **24**
