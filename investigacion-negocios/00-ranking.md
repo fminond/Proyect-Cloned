@@ -11,7 +11,7 @@
 | # | Idea | Referente afuera | Qué hay en Argentina | Puntaje | Ronda | Ficha |
 |---|---|---|---|---|---|---|
 | 1 | Turnos por horas para gastronomía y eventos ⚠️ | Timee (Japón) | Solo bolsas de empleo | **26** | 2 | [07](fichas/07-turnos-por-horas.md) |
-| 2 | Alquiler de maquinaria ociosa entre empresas | EquipmentShare (EE.UU.) | Nada entre empresas | **25** | 1 | [03](fichas/03-alquiler-maquinaria-entre-empresas.md) |
+| 2 | Maquinaria: software y marketplace para alquiladoras, foco Vaca Muerta *(profundizada)* | DOZR (Canadá) | Alquiladoras sueltas, clasificados y Casa do Construtor en equipos livianos | **24** | 1 y nocturna | [03](fichas/03-alquiler-maquinaria-entre-empresas.md) |
 | 3 | Cuidadores de adultos mayores, vendido a prepagas | Care.com, Papa (EE.UU.) | CUIDARnos (cooperativa) | **25** | 1 | [02](fichas/02-cuidado-adultos-mayores.md) |
 | 4 | Guardado entre particulares | Neighbor (EE.UU.) | Solo depósitos propios | **25** | 1 | [04](fichas/04-guardado-entre-particulares.md) |
 | 5 | Cuidado de mascotas con seguro *(bajó de 27)* | Rover (EE.UU.) | **Cooper, Wana, Mascoters, Wagg, Wakypet** | **25** | 1 | [01](fichas/01-cuidado-mascotas.md) |

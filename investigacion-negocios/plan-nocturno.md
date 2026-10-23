@@ -1,0 +1,18 @@
+# Plan de trabajo nocturno (22 al 23 de octubre de 2026)
+
+Objetivo: profundizar las 3 ideas principales y encontrarle a cada una su **vuelta de tuerca**:
+una diferencia concreta que la haga defendible frente a la competencia y a la desintermediación.
+
+| Bloque | Hora aprox. (Argentina) | Tema | Estado |
+|---|---|---|---|
+| 1 | 23:30 | Alquiler de maquinaria entre empresas: competencia (apps, LinkedIn), números y vuelta de tuerca | ✅ hecho: ficha 03 reescrita; vuelta de tuerca "DOZR argentino" en Vaca Muerta |
+| 2 | 00:45 | Micros compartidos: rutas sin servicio, costo de un micro, cuenta por viaje y vuelta de tuerca | pendiente |
+| 3 | 02:00 | Turnos por horas: encuadre legal (servicios eventuales y monotributo), alternativas y vuelta de tuerca | pendiente |
+| 4 | 03:15 | Revisar el resto del ranking (adultos mayores, guardado, mascotas) buscando vueltas de tuerca nuevas | pendiente |
+| 5 | 04:30 | Informe final: comparativa, recomendación y próximos pasos concretos | pendiente |
+
+Reglas:
+- Cada bloque termina con un commit y un push, así no se pierde nada.
+- Cada competidor se verifica en tiendas de apps, LinkedIn e Instagram, no solo en la prensa
+  (lección de la ronda 2b).
+- Lo que no se pueda verificar se marca como **supuesto**.
