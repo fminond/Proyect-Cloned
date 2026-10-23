@@ -10,7 +10,7 @@
 
 | # | Idea | Referente afuera | Qué hay en Argentina | Puntaje | Ronda | Ficha |
 |---|---|---|---|---|---|---|
-| 1 | Turnos por horas para gastronomía y eventos ⚠️ | Timee (Japón) | Solo bolsas de empleo | **26** | 2 | [07](fichas/07-turnos-por-horas.md) |
+| 1 | Turnos por horas: app + empresa de servicios eventuales socia *(profundizada)* | Timee (Japón), Closeer (Brasil) | Ninguna app de turnos en el día; ESE grandes sin app | **25** | 2 y nocturna | [07](fichas/07-turnos-por-horas.md) |
 | 2 | Maquinaria: software y marketplace para alquiladoras, foco Vaca Muerta *(profundizada)* | DOZR (Canadá) | Alquiladoras sueltas, clasificados y Casa do Construtor en equipos livianos | **24** | 1 y nocturna | [03](fichas/03-alquiler-maquinaria-entre-empresas.md) |
 | 3 | Cuidadores de adultos mayores, vendido a prepagas | Care.com, Papa (EE.UU.) | CUIDARnos (cooperativa) | **25** | 1 | [02](fichas/02-cuidado-adultos-mayores.md) |
 | 4 | Guardado entre particulares | Neighbor (EE.UU.) | Solo depósitos propios | **25** | 1 | [04](fichas/04-guardado-entre-particulares.md) |
@@ -18,8 +18,8 @@
 | 6 | Micros compartidos con flota ociosa *(profundizada, bajó a 23)* | Buser (Brasil) | Nadie en rutas habituales; riesgo FlixBus (presencia sin confirmar) | **23** | 2 y nocturna | [06](fichas/06-micros-compartidos.md) |
 | 7 | Medicamentos de venta libre online *(condicionada)* | — | Bloqueado judicialmente | **24** | 1 | [05](fichas/05-farmacia-venta-libre-online.md) |
 
-⚠️ La #1 tiene una duda legal que puede descartarla: la reforma laboral de 2026 solo ampara a las
-plataformas de reparto y movilidad. Ver la ficha.
+La #1 tenía una duda legal. En el bloque nocturno 3 apareció un camino: operar a través de una empresa
+de servicios eventuales habilitada. Hay que confirmarlo con un abogado. Ver la ficha.
 
 ## Intermedias (sin ficha todavía)
 
