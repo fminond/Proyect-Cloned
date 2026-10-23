@@ -41,3 +41,42 @@
 - [descubre.vc – SpacePal](https://www.descubre.vc/noticia/spacepal-la-start-up-argentina-que-es-el-airbnb-de-los-eventos-y-opera-en-22-pa-ses-2025-05-14)
 - [descubre.vc – Centralo](https://www.descubre.vc/centralo)
 - [Forbes Argentina – Avancargo](https://www.forbesargentina.com/innovacion/resuelven-problema-endemico-aseguran-una-gestion-logistica-eficiente-asi-funciona-avancargo-n23904)
+
+# Fuentes – Ronda 2 (23 de octubre de 2026)
+
+## Micros compartidos y transporte
+- [Swissinfo/EFE – Argentina desregula el transporte de media y larga distancia](https://www.swissinfo.ch/spa/argentina-libera-y-desregula-el-transporte-por-carretera-de-media-y-larga-distancia/87688744)
+- [Diario de Cuyo – Las empresas fijan libremente recorridos y precios](https://diariodecuyo.com.ar/argentina/desregulacion-del-transporte-de-media-y-larga-distancia-las-empresas-ya-pueden-establecer-libremente-recorridos-precios-y-duracion-de-los-servicios-1688566.html)
+- [Ámbito – Qué cambia con la desregulación](https://www.ambito.com/politica/que-cambios-implicara-la-desregulacion-del-transporte-media-y-larga-distancia-n6067661)
+- [Colectibondi – Eliminación de compensaciones (mayo de 2026)](https://revistacolectibondi.com.ar/2026/05/26/el-gobierno-elimino-las-compensaciones-a-empresas-de-micros-de-larga-distancia-por-pasajes-gratuitos/)
+- [Bloomberg Línea – Buser, primera ganancia](https://www.bloomberglinea.com/2025/02/18/brazil-bus-startup-buser-eyes-acquisitions-after-first-profit/)
+- [Dealroom – Buser](https://dealroom.co/companies/buser/)
+- [descubre.vc – Proyecto de ley en Brasil amenaza a Buser](https://www.descubre.vc/noticia/nuevo-proyecto-de-ley-en-brasil-amenaza-el-modelo-de-negocio-de-buser-2026-04-16)
+- [Forbes Argentina – Llega BlaBlaCar](https://www.forbesargentina.com/negocios/blablacar-llega-argentina-como-funciona-app-carpooling-compartir-gastos-viaje-n91374)
+- [Arbus – Plataformas de pasajes de micro](https://arbus.com.ar/apps-y-plataformas-para-reservar-pasajes-de-micro-de-forma-segura/)
+
+## Turnos por horas y reforma laboral
+- [TheBridge – Timee sale a la Bolsa](https://thebridge.jp/en/2024/06/timee-files-for-ipo)
+- [Investing.com – Debut de Timee](https://investing.com/news/stock-market-news/spot-work-startup-timee-shares-pop-30-in-tokyo-debut-3538199)
+- [Boletín Oficial – Ley 27.802](https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306)
+- [García Alonso – Plataformas tecnológicas en la Ley 27.802](https://garciaalonso.com.ar/blog/plataformas-tecnologicas-ley-27-802/)
+- [Marval – El Congreso aprueba la Ley de Modernización Laboral](https://www.marval.com/Publicacion/el-congreso-aprueba-la-ley-de-modernizacion-laboral-17499)
+- [Cazvid – Contratar mozos en Buenos Aires](https://cazvid.com/es/blog/como-contratar-meseros-en-buenos-aires)
+
+## Lecciones
+- [Forbes Colombia – Frubana pone fin a sus operaciones](https://forbes.co/2025/08/14/negocios/frubana-pone-fin-a-sus-operaciones)
+- [Forbes Colombia – Frubana sale de Colombia y México](https://forbes.co/2024/02/16/negocios/frubana-se-enfocara-en-brasil-suspendera-sus-operaciones-en-colombia-y-mexico)
+- [Mercado & Consumo – Procon y Facily](https://mercadoeconsumo.com.br/08/11/2021/noticias/procon-suspender-facily-aumento-reclamacoes/)
+- [Startups.com.br – Facily, unicornio](https://startups.com.br/noticias/facily-levanta-us-135-mi-e-vira-novo-unicornio-brasileiro/)
+- [Finshots – La salida a Bolsa de Meesho](https://finshots.in/archive/the-meesho-ipo-explained/)
+- [Upgrowth – Modelo de comisión cero de Meesho](https://upgrowth.in/meeshos-bharat-playbook-how-zero-commission-and-a-%e2%82%b9300-price-point-built-indias-third-largest-e-commerce-platform/)
+- [Infonegocios – Natura en WhatsApp](https://infonegocios.info/enfoque/natura-se-mete-en-tu-whatsapp-alianza-con-meta-y-local-en-cordoba-para-2025)
+- [Expansión – Frubana](https://expansion.mx/tecnologia/2020/03/06/frubana-la-app-que-te-lleva-el-campo-directo-al-restaurante)
+- [Atlantico – Modelos chinos en Latinoamérica](https://atlantico.vc/facily-mercado-favo-muni-pinduoduo-shihuituan)
+
+## Descartadas de la ronda 2
+- [El Economista – Kavak, primer semestre de 2026](https://eleconomista.com.ar/autos/cuales-son-preferencias-argentinos-elegir-auto-usado-n97671)
+- [descubre.vc – Fletalo](https://www.descubre.vc/fletalo)
+- [mercado.com.ar – Finaer](https://mercado.com.ar/agenda/finaer-llevara-a-expo-real-estate-2026-su-garantia-digital-para-alquileres)
+- [iProUP – Hoggax](https://www.iproup.com/startups/24703-garantia-de-alquiler-digital-como-funciona-hoggax)
+- [Forbes Argentina – LAVAPP](https://www.forbesargentina.com/negocios/la-app-argentina-revoluciona-industria-lavado-n8093)

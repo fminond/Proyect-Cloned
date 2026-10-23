@@ -16,6 +16,7 @@ Este es el espacio de trabajo para buscar modelos de negocio de **plataforma int
 | [`00-ranking.md`](00-ranking.md) | Tabla con todas las ideas evaluadas y su puntaje. **Empezá por acá.** |
 | [`metodologia.md`](metodologia.md) | Criterios de puntaje y plantilla de ficha. |
 | [`fichas/`](fichas/) | Una ficha detallada por idea prometedora. |
+| [`lecciones.md`](lecciones.md) | Modelos que fracasaron o se complicaron afuera, y qué aprender de ellos. |
 | [`descartadas.md`](descartadas.md) | Ideas que ya están cubiertas en Argentina y el motivo del descarte. Sirve para no repetir búsquedas. |
 | [`pendientes.md`](pendientes.md) | Preguntas abiertas y próximos pasos. |
 | [`fuentes.md`](fuentes.md) | Links usados en cada ronda. |
