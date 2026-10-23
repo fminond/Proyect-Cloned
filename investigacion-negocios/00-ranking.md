@@ -15,7 +15,7 @@
 | 3 | Cuidadores de adultos mayores, vendido a prepagas | Care.com, Papa (EE.UU.) | CUIDARnos (cooperativa) | **25** | 1 | [02](fichas/02-cuidado-adultos-mayores.md) |
 | 4 | Guardado entre particulares | Neighbor (EE.UU.) | Solo depósitos propios | **25** | 1 | [04](fichas/04-guardado-entre-particulares.md) |
 | 5 | Cuidado de mascotas con seguro *(bajó de 27)* | Rover (EE.UU.) | **Cooper, Wana, Mascoters, Wagg, Wakypet** | **25** | 1 | [01](fichas/01-cuidado-mascotas.md) |
-| 6 | Micros compartidos en rutas habituales *(bajó de 25)* | Buser (Brasil) | Nadie en rutas habituales; los micros a eventos ya existen | **24** | 2 | [06](fichas/06-micros-compartidos.md) |
+| 6 | Micros compartidos con flota ociosa *(profundizada, bajó a 23)* | Buser (Brasil) | Nadie en rutas habituales; riesgo FlixBus (presencia sin confirmar) | **23** | 2 y nocturna | [06](fichas/06-micros-compartidos.md) |
 | 7 | Medicamentos de venta libre online *(condicionada)* | — | Bloqueado judicialmente | **24** | 1 | [05](fichas/05-farmacia-venta-libre-online.md) |
 
 ⚠️ La #1 tiene una duda legal que puede descartarla: la reforma laboral de 2026 solo ampara a las
