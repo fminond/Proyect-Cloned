@@ -13,7 +13,8 @@ Este es el espacio de trabajo para buscar modelos de negocio de **plataforma int
 
 | Archivo | Para qué sirve |
 |---|---|
-| [`informe-final.md`](informe-final.md) | **Conclusión de la investigación nocturna y pasos para esta semana. Empezá por acá.** |
+| [`servicios-ba/`](servicios-ba/) | **Nuevo enfoque (23/10): servicios desde Buenos Aires. Una ronda por hora.** |
+| [`informe-final.md`](informe-final.md) | **Conclusión de la investigación nocturna (enfoque anterior, archivado).** |
 | [`00-ranking.md`](00-ranking.md) | Tabla con todas las ideas evaluadas y su puntaje. |
 | [`metodologia.md`](metodologia.md) | Criterios de puntaje y plantilla de ficha. |
 | [`fichas/`](fichas/) | Una ficha detallada por idea prometedora. |
