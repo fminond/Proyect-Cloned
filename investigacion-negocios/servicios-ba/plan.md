@@ -12,6 +12,18 @@ aprovechando que es la principal ciudad del país.
 - Programa: hizo una tienda online en React con Firebase (este repo).
 - Hobby: guitarra y canto (tiene experiencia, pero no quiere exponerse; queda fuera del foco).
 
+### Lo que más le costó al construir el tráiler (dolores reales = funciones de la app)
+Herramientas que usa: amoladora, taladro y las físicas de base.
+1. **Entender bien las medidas**: qué significan, cómo tomarlas y cómo pasarlas al diseño.
+2. **Qué comprar**: qué material sirve, en qué medida comercial, y cómo **simplificar** el diseño
+   para comprar menos y cortar menos.
+3. **Dónde guardar los materiales para que no se oxiden**: el cuidado de los materiales y las herramientas.
+4. **Seguridad**: qué protección hace falta para cada herramienta y cada tarea.
+5. **Una guía paso a paso** de verdad, no instrucciones sueltas.
+
+→ Las rondas 2, 3 y 5 tienen que evaluar si algo en el mercado ya resuelve **estos cinco puntos
+juntos y en español**. Si no, esa es la vuelta de tuerca.
+
 **Pregunta central de las rondas:** ¿qué servicio o app puede armar alguien que construye cosas
 con IA, desde Buenos Aires, para la ciudad o para el mundo?
 
