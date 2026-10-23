@@ -21,6 +21,20 @@ Herramientas que usa: amoladora, taladro y las físicas de base.
 4. **Seguridad**: qué protección hace falta para cada herramienta y cada tarea.
 5. **Una guía paso a paso** de verdad, no instrucciones sueltas.
 
+### Ampliación: no solo construir, también instalar y reparar en la casa
+Ejemplos del usuario:
+- **Colocar un bidet**: hay muchísimos videos, pero no un paso a paso tipo manual que diga
+  **cuándo va teflón y cuándo sellarroscas**, o si hay o-ring.
+- **Armar la mochila del inodoro**: qué corrugado lleva y qué medidas tiene.
+
+**La idea clave (la vuelta de tuerca):** saber **de antemano qué cosas pueden variar** en tu caso
+(tipo de rosca, medida del caño, modelo del artefacto, material de la pared) **y cuáles son
+universales**, para tenerlas en cuenta antes de comprar y antes de empezar. Así se minimizan los
+errores. Es la diferencia entre un video ("mirá cómo lo hago yo") y un manual que se adapta a tu caso.
+
+→ Las rondas tienen que incluir también **reparaciones e instalaciones del hogar** (plomería,
+electricidad básica, armado y colgado de cosas), no solo fabricación.
+
 → Las rondas 2, 3 y 5 tienen que evaluar si algo en el mercado ya resuelve **estos cinco puntos
 juntos y en español**. Si no, esa es la vuelta de tuerca.
 
